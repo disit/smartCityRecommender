@@ -1,0 +1,37 @@
+<?php
+
+/* Recommender
+ Copyright (C) 2017 DISIT Lab http://www.disit.org - University of Florence 
+
+ This program is free software: you can redistribute it and/or modify 
+ it under the terms of the GNU Affero General Public License as 
+ published by the Free Software Foundation, either version 3 of the 
+ License, or (at your option) any later version. 
+
+ This program is distributed in the hope that it will be useful, 
+ but WITHOUT ANY WARRANTY; without even the implied warranty of 
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the 
+ GNU Affero General Public License for more details. 
+
+ You should have received a copy of the GNU Affero General Public License 
+ along with this program.  If not, see <http://www.gnu.org/licenses/>. */
+include_once "Polyline.php";
+
+$encoded = "mstnrA_|ymTDqXg@{TiBq^|d@AAwSOab@zj@v@`PTpV\\tOThW\\F~`@B~RE|TInZC`DkVOkPImH@mEAuUGkWUuSu@Hfq@ma@DgWp@{Pb@\\`a@IvN_FlkAUlCg@p_@KjEbF~A|Bt@fCn@tCdCzChCnEjEpDnEhDpDfBrBn@y@dMdNzIhJjmAznA|FiBZh@jCi@jI~Df_A|o@zDvDxE?lUnMnFxCbQtHtXxLhh@zWb_@hQdf@lWlXbNfi@dX~PfIz]rPxp@lZ|ThK|KzEhVlKbVnKz]jPrKfFlWvK`OhGfQfHlGr@tCjBfEbChDvAPhDhBvEtCjBhEM`CoBfKzAtR~BtLhC|WzFnj@bN|a@vLds@vTnZxJrm@hKze@zLhc@rMdd@pKrW|F~T|FfJzBdIrBlT`OrNhMfK`L`Xv\\|SzTtHdIhGlHnJ|LrBfC`GvHdHbJpFrGjHfHtEdFjJjL`HpFfK`JbFrF~BtCvExLv@rBxCzHvb@fhAlE|MvAfE`_A`bCdTdn@dB~DrI`SxKbPty@pjAxNbRjKzOzPjQfbDrsC|CvJ|@tF`A~Ek@nCIxCVvCt@fCpAhBdB`AnBVnBYbBeApAqBt@mCxG_ErAfAfFlD`DjBdHxBzNvFnKvCnQtCpVzArAxBxAiB`Jj@jYvAnDNhKo@vEQxoB}Pn[nZ|e@da@jFxF|GxGld@ja@ja@fa@`DtD`MnR|AhDtB`FjgA{v@|EeHtVwQ|F}BhOw\\dDuGxCcGrB}DlCeGdFeDxB]bFD~CxDlM`M|HtFzMrF`ZxH`CLvf@pG|UhDtLh@bOCpKyAlIyBxK}E~NkHjj@kVbWaMtc@qQpNsCjWiFzAgA~]qLjWiDv~AoKlMi@rUtClQ`E~g@zOpGhDz^~VjHnEpKtH|VjQvInE~FhItE`JxC~DBtFb@zCtCbG|AnArAj@vFFtDoBbCyDv@wCpH}C|FyBrIKvMpB`c@pGrQ~Dhg@lOtq@xPxKfEhOdKfIpDbLrB~b@fGrFnBfIvGrJxH~I~ExI`B~PrClOhBfGwCfNCx\\l^tE~BbCm@zAiD?}FsTgw@Q{FbB_FdC}@";
+$points = Polyline::Decode($encoded);
+$points = Polyline::Pair($points);
+$points = Polyline::Decode($encoded);
+//var_dump($points);
+
+// Points to encode
+$points = array(
+        array(41.89084,-87.62386),
+        array(41.89086,-87.62279),
+        array(41.89028,-87.62277),
+        array(41.89028,-87.62385),
+        array(41.89084,-87.62386)
+    );
+
+$encoded = Polyline::Encode($points);
+wxt~Fb`yuOCuErBC?vEoB@
+?>

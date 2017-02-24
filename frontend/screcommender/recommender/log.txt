@@ -1,0 +1,115 @@
+get user profile: 0 ms
+get recommendations json: 301 ms
+get number of recommendations in the last 7 days: 13 ms
+get number of recommendations in the last 30 days: 22 ms
+get total number of recommendations: 18 ms
+get number of view after recommendations in the last 24 h: 1 ms
+get number of view after recommendations in the last 7 days: 0 ms
+get number of view after recommendations in the last 30 days: 1 ms
+get total number of view after recommendations: 0 ms
+get queries json: 181 ms
+get views json: 17910 ms
+get min and max timestamp: 20 ms
+get speed distance: 56928 ms
+get active users json (total): 254 ms
+get active users (total): 18 ms
+get active users (last 24 h): 3 ms
+get active users (last 7 days): 17 ms
+get active users (last 30 days): 29 ms
+get groups: 0 ms
+get requested groups: 24 ms
+get viewed after recommendation: 198 ms
+get disliked: 2 ms
+get zones flows: 76 ms
+get user profile: 1 ms
+get recommendations json: 379 ms
+get number of recommendations in the last 7 days: 14 ms
+get number of recommendations in the last 30 days: 22 ms
+get total number of recommendations: 17 ms
+get number of view after recommendations in the last 24 h: 1 ms
+get number of view after recommendations in the last 7 days: 1 ms
+get number of view after recommendations in the last 30 days: 1 ms
+get total number of view after recommendations: 0 ms
+get queries json: 102 ms
+get views json: 19057 ms
+get min and max timestamp: 20 ms
+get speed distance: 56232 ms
+get active users json (total): 255 ms
+get active users (total): 19 ms
+get active users (last 24 h): 3 ms
+get active users (last 7 days): 16 ms
+get active users (last 30 days): 28 ms
+get groups: 1 ms
+get requested groups: 24 ms
+get viewed after recommendation: 191 ms
+get disliked: 2 ms
+get zones flows: 71 ms
+get user profile: 0 ms
+get recommendations json: 252 ms
+get number of recommendations in the last 7 days: 14 ms
+get number of recommendations in the last 30 days: 22 ms
+get total number of recommendations: 16 ms
+get number of view after recommendations in the last 24 h: 1 ms
+get number of view after recommendations in the last 7 days: 1 ms
+get number of view after recommendations in the last 30 days: 1 ms
+get total number of view after recommendations: 0 ms
+get queries json: 245 ms
+get views json: 28637 ms
+get min and max timestamp: 20 ms
+get speed distance: 58861 ms
+get active users json (total): 256 ms
+get active users (total): 19 ms
+get active users (last 24 h): 3 ms
+get active users (last 7 days): 16 ms
+get active users (last 30 days): 28 ms
+get groups: 1 ms
+get requested groups: 24 ms
+get viewed after recommendation: 201 ms
+get disliked: 2 ms
+get zones flows: 65 ms
+get user profile: 0 ms
+get recommendations json: 295 ms
+get number of recommendations in the last 7 days: 14 ms
+get number of recommendations in the last 30 days: 22 ms
+get total number of recommendations: 17 ms
+get number of view after recommendations in the last 24 h: 0 ms
+get number of view after recommendations in the last 7 days: 1 ms
+get number of view after recommendations in the last 30 days: 1 ms
+get total number of view after recommendations: 1 ms
+get queries json: 129 ms
+get views json: 18968 ms
+get min and max timestamp: 20 ms
+get speed distance: 56527 ms
+get active users json (total): 256 ms
+get active users (total): 18 ms
+get active users (last 24 h): 3 ms
+get active users (last 7 days): 17 ms
+get active users (last 30 days): 28 ms
+get groups: 1 ms
+get requested groups: 24 ms
+get viewed after recommendation: 198 ms
+get disliked: 2 ms
+get zones flows: 76 ms
+get user profile: 0 ms
+get recommendations json: 297 ms
+get number of recommendations in the last 7 days: 14 ms
+get number of recommendations in the last 30 days: 24 ms
+get total number of recommendations: 17 ms
+get number of view after recommendations in the last 24 h: 1 ms
+get number of view after recommendations in the last 7 days: 1 ms
+get number of view after recommendations in the last 30 days: 1 ms
+get total number of view after recommendations: 1 ms
+get queries json: 603 ms
+get views json: 54501 ms
+get min and max timestamp: 39 ms
+get speed distance: 57180 ms
+get active users json (total): 259 ms
+get active users (total): 18 ms
+get active users (last 24 h): 3 ms
+get active users (last 7 days): 16 ms
+get active users (last 30 days): 29 ms
+get groups: 0 ms
+get requested groups: 25 ms
+get viewed after recommendation: 182 ms
+get disliked: 2 ms
+get zones flows: 65 ms
